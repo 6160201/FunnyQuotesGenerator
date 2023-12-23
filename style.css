@@ -20,7 +20,7 @@ h1 {
 }
 
 .tv {
-    background-color: #87ceeb; /* Sky Blue */
+    background-color: #ffb6c1; /* Light Pink */
     padding: 20px;
     border-radius: 8px;
 }
@@ -34,12 +34,12 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #4caf50;
+    background-color: #ff69b4; /* Hot Pink */
     color: #fff;
     border: none;
     border-radius: 4px;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #d63447; /* Darker Pink */
 }
