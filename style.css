@@ -1,7 +1,9 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffc0cb; /* Light Pink */
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
@@ -13,8 +15,31 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+h1 {
+    color: #333;
+}
+
+.tv {
+    background-color: #87ceeb; /* Sky Blue */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+blockquote {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
 button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #45a049;
 }
